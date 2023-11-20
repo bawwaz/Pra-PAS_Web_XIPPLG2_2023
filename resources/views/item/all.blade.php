@@ -16,7 +16,7 @@
         $no = 1;
       @endphp
 
-      @foreach ($items as $item) {{-- Change $Item to $items --}}
+      @foreach ($items as $item) 
         <tr>  
           <td>{{$no++}}</td>
           <td>{{$item->brand}}</td>

@@ -11,7 +11,7 @@ class ItemController extends Controller
     {   
         return view('item.all', [
             "title" => "items",
-            "items" => Item::all() // Change "Item" to "items"
+            "items" => Item::all() 
         ]);
     }
 

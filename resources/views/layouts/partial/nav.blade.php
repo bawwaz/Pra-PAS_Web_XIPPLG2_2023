@@ -15,6 +15,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/receipts/all">Receipt</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/itempop/all">Item Stats</a>
+        </li>
       </ul>
     </div>
   </div>
